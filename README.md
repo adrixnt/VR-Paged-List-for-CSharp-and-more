@@ -4,14 +4,14 @@ Vincent Radio {Adrix.NT} :: Paged List for C# and more
 a collection of Vincent Radio {Adrix.NT} C# works
 
 includes
-	- Paged Lists & Iterators Library for C#
-	- Generic Multi Dimensional Arrays Library for C#
-	- Range Check
+- Paged Lists & Iterators Library for C#
+- Generic Multi Dimensional Arrays Library for C#
+- Range Check
 
 also includes
-	- Source Files
-	- Visual Studio Build Projects
-	- Test Applics
+- Source Files
+- Visual Studio Build Projects
+- Test Applics
 
 have fun
 
