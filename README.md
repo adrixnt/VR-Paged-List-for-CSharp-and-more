@@ -6,6 +6,7 @@ a collection of Vincent Radio {Adrix.NT} C# works
 includes
 - Paged Lists & Iterators Library for C#
 - Generic Multi Dimensional Arrays Library for C#
+- Generic MDArray List Manager Library for C#
 - Range Check
 
 also includes
