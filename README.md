@@ -7,6 +7,7 @@ includes
 - Paged Lists & Iterators Library for C#
 - Generic Multi Dimensional Arrays Library for C#
 - Generic MDArray List Manager Library for C#
+- Generic Adjacency List Graph Library for C#
 - Range Check
 
 also includes
